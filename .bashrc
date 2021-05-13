@@ -121,10 +121,6 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 #dotneri
-#dotneri=>alias
-alias ns='npm start'
-alias nsd='npm run start:dev'
-alias startmysql='sudo /etc/init.d/mysql start'
 
 #dotneri=>functions
 gp() {
