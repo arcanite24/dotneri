@@ -123,7 +123,8 @@ export NVM_DIR="$HOME/.nvm"
 #dotneri
 #dotneri=>alias
 alias ns='npm start'
-alias nd='npm run start:dev'
+alias nsd='npm run start:dev'
+alias startmysql='sudo /etc/init.d/mysql start'
 
 #dotneri=>functions
 gp() {
